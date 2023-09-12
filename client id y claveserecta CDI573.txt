@@ -1,0 +1,7 @@
+ID de cliente
+
+998661218025-ph7stqoq9jj3skr0e5nfvspegnpdtt7i.apps.googleusercontent.com
+
+Secreto del cliente
+
+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
